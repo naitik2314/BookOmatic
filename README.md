@@ -11,11 +11,6 @@
 
 ---
 
-### Contributors
-[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/BookOmatic/images/0)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/BookOmatic/links/0)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/BookOmatic/images/1)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/BookOmatic/links/1)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/BookOmatic/images/2)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/BookOmatic/links/2)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/BookOmatic/images/3)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/BookOmatic/links/3)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/BookOmatic/images/4)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/BookOmatic/links/4)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/BookOmatic/images/5)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/BookOmatic/links/5)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/BookOmatic/images/6)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/BookOmatic/links/6)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/BookOmatic/images/7)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/BookOmatic/links/7)
-
----
-
 ### Tools:
 - Django
 - Python
