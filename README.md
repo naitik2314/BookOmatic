@@ -54,7 +54,7 @@
 ### Developer Setup:
 - Fork this repository, and cd into it.
 ```bash
-git clone https://github.com/KalleHallden/BookOmatic.git
+https://github.com/naitik2314/BookOmatic.git
 cd BookOmatic/
 ```
 - Create and activate your virtual environment.
